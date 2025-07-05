@@ -43,15 +43,15 @@ This project is a custom-built search engine web application that performs real-
 
 ## Project Structure
 
-├── webscraping.py
-├── app.ipynb
-├── Custom Bot Database Query v2.0.sql
-├── static/
-│ ├── styles.css
-│ └── logo.png
-├── templates/
-│ ├── index.html
-│ └── search_results.html
-├── presentation/
+├── webscraping.py<br>
+├── app.ipynb<br>
+├── Custom Bot Database Query v2.0.sql<br>
+├── static/<br>
+│ ├── styles.css<br>
+│ └── logo.png<br>
+├── templates/<br>
+│ ├── index.html<br>
+│ └── search_results.html<br>
+├── presentation/<br>
 │ └── Project Presentation.pptx
 
