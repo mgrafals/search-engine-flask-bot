@@ -47,11 +47,11 @@ This project is a custom-built search engine web application that performs real-
 ├── app.ipynb<br/>
 ├── Custom Bot Database Query v2.0.sql<br/>
 ├── static/<br/>
- │ ├── styles.css<br/>
- │ └── logo.png<br/>
+│ ├── styles.css<br/>
+│ └── logo.png<br/>
 ├── templates/<br/>
- │ ├── index.html<br/>
- │ └── search_results.html<br/>
+│ ├── index.html<br/>
+│ └── search_results.html<br/>
 ├── presentation/<br/>
- │ └── Project Presentation.pptx
+│ └── Project Presentation.pptx
 
